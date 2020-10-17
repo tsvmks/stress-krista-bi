@@ -39,3 +39,5 @@
 Подойдет для небольших проектов без сложной логики
 
 ## Полезные ссылки
+
+* https://training.ragozin.info/collateral/loadlab/bom.pdf
