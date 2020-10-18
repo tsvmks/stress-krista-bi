@@ -74,7 +74,7 @@ mvn clean verify -P Stable
 3. Сценарии в сек
 4. Сценарии в час
 
-В моем случае не было ошибок, т.е нагрузку в 250 пользователей мы держале
+В моем случае не было ошибок, т.е нагрузку в 250 пользователей мы держали
 ![MaxPerf](https://github.com/tsvmks/stress-krista-bi/blob/main/JMeterMVN/src/test/jmeter/res.png)
 
 # Stable
