@@ -2,7 +2,7 @@
 
 ## План 
 
-На нашем отчете по моделям http://test.piao.fm.epbs.ru/static-report/web/report-desktop-war.html?reportId=38b211ab-b98d-4e1a-a4a6-5bfbfdd4a6ed&version=01.10.2020%2005.58.12.098&device=Desktop провести пример нагрузочного тестирования.
+На нашем отчете по моделям http://localhost:8080/static-report/web/report-desktop-war.html?reportId=38b211ab-b98d-4e1a-a4a6-5bfbfdd4a6ed&version=01.10.2020%2005.58.12.098&device=Desktop провести пример нагрузочного тестирования.
 
 * Тестирование с использованием Apache JMeter
 
