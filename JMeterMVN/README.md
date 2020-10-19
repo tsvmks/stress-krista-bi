@@ -74,7 +74,7 @@ mvn clean verify -P Stable
 3. Сценарии в сек
 4. Сценарии в час
 
-Примерно на 50 пользователях и 5 tps мой сервак упал :( 
+Примерно на 50 пользователях и 5 tps мой сервак начал деградировать, а на 100+ вообще перестали транзанзии выполняться без ошибок :( 
 ![MaxPerf](https://github.com/tsvmks/stress-krista-bi/blob/main/JMeterMVN/src/test/jmeter/res.png)
 
 # Stable
