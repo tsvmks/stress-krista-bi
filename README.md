@@ -65,3 +65,4 @@
 * https://github.com/aragozin
 * https://github.com/polarnik/
 * https://gatling.io/docs/current/cheat-sheet/
+* https://training.ragozin.info/loadlab-krista.pdf
