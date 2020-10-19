@@ -11,7 +11,7 @@
     <properties>
         <testId>${maven.build.timestamp}</testId>
         <!-- Test name -->
-        <jmx>test.piao.single.report</jmx>
+        <jmx>localhost</jmx>
         <influxdb.host>metrics.loadlab.ragozin.info</influxdb.host>
         <influxdb.port>8086</influxdb.port>
         <influxdb.database>jmeter</influxdb.database>
